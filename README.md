@@ -1,5 +1,5 @@
 # notes-emberjs
-Ember.js Notes from Myself
+Ember.js Notes for Myself
 
 ## Installation via ember-cli
 ```sh
