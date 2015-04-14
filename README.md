@@ -17,7 +17,7 @@ ember serve
 Remove unnecessary folders.
 ```sh
 cd app
-rm -rf templates controllers routes views models
+rm -rf templates controllers routes views
 ```
 Set Default to Pods in `.ember-cli`
 ```sh
