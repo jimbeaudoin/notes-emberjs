@@ -18,6 +18,8 @@ Remove unnecessary folders.
 ```sh
 cd app
 rm -rf templates controllers routes views
+# Put everything in pods
+rm -rf components/ controllers/ models/ routes/ templates/
 ```
 Set Default to Pods in `.ember-cli`
 ```sh
