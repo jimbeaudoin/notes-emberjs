@@ -32,9 +32,9 @@ podModulePrefix: 'frontend/pods',
 Pods Structure
 ```sh
 app/pods/application/template.hbs
-app/pods/application/model.js
-app/pods/application/route.js
-app/pods/application/controller.js
+app/pods/user/model.js
+app/pods/user/route.js
+app/pods/user/controller.js
 # Supported Blueprints
 adapter
 component
