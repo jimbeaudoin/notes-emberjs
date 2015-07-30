@@ -11,6 +11,7 @@ ember install ember-cli-sass
 ```sh
 ember g -h
 ember g acceptance-test index
+ember g route foo
 ember g component <component-name> # Must contain a hyphen
 ```
 
