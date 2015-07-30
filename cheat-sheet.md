@@ -4,11 +4,9 @@
 ember install ember-cli-sass
 ```
 
-### Commands
+### Generators
 ```sh
-# Show Generate Commands
 ember g -h
-# Generate an acceptance test named index
 ember g acceptance-test index
 ember g component <component-name> # Must contain a hyphen
 ```
