@@ -29,7 +29,7 @@ test('visiting /', function(assert) {
 });
 ```
 
-##### Integration: async safe test helpers
+##### Acceptance: async safe test helpers
 
 ```javascript
 // Return a promise
@@ -40,7 +40,7 @@ keyEvent('input[name=word]', 'keyup', 13); // keyEvent(selector, type, key);
 triggerEvent(sel, type, opts);
 ```
 
-##### Integration: sync test helpers 
+##### Acceptance: sync test helpers 
 
 ```javascript
 find(selector, content);
