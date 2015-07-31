@@ -31,13 +31,13 @@ test('it show title', function(assert) {
   assert.equal(this.$().find('.title').text(), 'test', 'Show correct title');
 });
 
-test('it show identification (email) input', function(assert) {
+test('it show one identification input', function(assert) {
   // Template block usage:
   this.render(hbs`
     {{login-box title="test"}}
   `);
 
-  assert.equal(this.$().find(':input').prop('name'), "email", 'Show identification input');
+  assert.equal(this.$().find('input[type=text]').length, 1, 'has one identification input');
 });
 ```
 
