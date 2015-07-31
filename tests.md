@@ -20,6 +20,7 @@ test('it renders', function(assert) {
   `);
 
   assert.equal(this.$().text().trim(), 'template block text', 'Show with text');
+  assert.equal(this.$().find('input[placeholder="Password"]').length, 1, "has one password placeholder");
 });
 
 test('it show title', function(assert) {
