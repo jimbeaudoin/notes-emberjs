@@ -12,5 +12,5 @@ ember install ember-cli-sass
 ember g -h
 ember g acceptance-test index
 ember g route foo
-ember g component <component-name> # Must contain a hyphen
+ember g component <component-name> --pod # Must contain a hyphen
 ```
