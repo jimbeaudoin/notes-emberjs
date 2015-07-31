@@ -15,8 +15,8 @@ ember serve
 ```
 
 ### Links
-[Cheat Sheet](cheat-sheet.md)
-[Pods](pods.md)
+[Cheat Sheet](cheat-sheet.md)  
+[Pods](pods.md)  
 [Tests](tests.md)
 
 --
