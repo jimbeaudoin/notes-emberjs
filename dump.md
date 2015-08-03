@@ -6,7 +6,7 @@ const {on, computed, observer} = Ember;
 ```
 
 ##### Components
-```
+```javascript
 import Ember from 'ember';
 
 export default Ember.Component.extend({
