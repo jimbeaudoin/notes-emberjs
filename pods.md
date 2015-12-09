@@ -1,5 +1,7 @@
 # Pods
 
+# OLD NOTES. WARNING!
+
 ##### Remove folders if needed.
 ```sh
 cd app
