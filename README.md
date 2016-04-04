@@ -5,7 +5,7 @@ Ember.js Notes for Myself
 ```sh
 npm install -g ember-cli
 npm install -g bower
-npm install -g phantomjs
+npm install -g phantomjs-prebuilt
 ```
 ### New Application Creation
 ```sh
